@@ -12,5 +12,5 @@ This project set-up instructions are inside another banking system repo ! minus 
     Now, let's see if we can push changes to this file
     using terminal VS using Intellij
 
-    Testing if we can pull chnages now using terminal ... ! since I set the upstream using the command:
+    Testing if we can pull changes now using terminal ... ! since I set the upstream using the command:
      "git push --set-upstream origin main" (NEW)
