@@ -14,3 +14,7 @@ This project set-up instructions are inside another banking system repo ! minus 
 
     Testing if we can pull changes now using terminal ... ! since I set the upstream using the command:
      "git push --set-upstream origin main" (NEW)
+
+--OK I fixed it !
+    The solution is to make sure we SET A WAY TO CONNECT LOCAL REPO WITH REMOTE
+    REPO + FOR PULLING/PUSHING FOR BRANCHES.
