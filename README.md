@@ -1,1 +1,3 @@
 Testing ... 
+
+This project set-up instructions are inside another banking system repo ! minus the first paragraph :)
