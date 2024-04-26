@@ -18,3 +18,6 @@ This project set-up instructions are inside another banking system repo ! minus 
 --OK I fixed it !
     The solution is to make sure we SET A WAY TO CONNECT LOCAL REPO WITH REMOTE
     REPO + FOR PULLING/PUSHING FOR BRANCHES.
+
+--COME BACK TO THIS file WHEN STUCK !
+    Now ... sometimes the Terminal (Linux) works and OTHER TIMES, Intellij works instead. Oh well. Let's keep going.
